@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085840938542",
+    "project_id": "trends-35973",
+    "storage_bucket": "trends-35973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085840938542:android:fdc97e9c552d86d94cf1bf",
+        "android_client_info": {
+          "package_name": "com.kings.trendsml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085840938542-6e387ji15cpvlnqabjv0gmlcm7vp26qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJcoZ_6IBB1lmLu5QRK8md6RpnNUXZCkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085840938542-6e387ji15cpvlnqabjv0gmlcm7vp26qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

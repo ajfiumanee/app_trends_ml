@@ -1,4 +1,4 @@
-package com.example.app_trends_ml
+package com.kings.trendsml
 
 import io.flutter.embedding.android.FlutterActivity
 
